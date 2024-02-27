@@ -1,0 +1,18 @@
+[
+{ "url":"Jumping over.wav", "type":"audio","bank":"jumping","n":0},
+{ "url":"Rack.wav", "type":"audio","bank":"rack","n":0},
+{ "url":"Ralex.wav", "type":"audio","bank":"relax","n":0},
+{ "url":"WIFE.wav", "type":"audio","bank":"WIFE","n":0},
+{ "url":"behind.wav", "type":"audio","bank":"behind","n":0},
+{ "url":"collision.wav", "type":"audio","bank":"collision","n":0},
+{ "url":"cross.wav", "type":"audio","bank":"cross","n":0},
+{ "url":"dling.wav", "type":"audio","bank":"dling","n":0},
+{ "url":"glitch.wav", "type":"audio","bank":"glitch","n":0},
+{ "url":"head up.wav", "type":"audio","bank":"head up","n":0},
+{ "url":"however.wav", "type":"audio","bank":"however","n":0},
+{ "url":"range.wav", "type":"audio","bank":"range","n":0},
+{ "url":"sunday club.wav", "type":"audio","bank":"sunday club","n":0},
+{ "url":"vvvn_.wav", "type":"audio","bank":"vvvn","n":0},
+{ "url":"wait.wav", "type":"audio","bank":"wait","n":0},
+{ "url":"waving bar.wav", "type":"audio","bank":"waving bar","n":0}
+]
