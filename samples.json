@@ -6,7 +6,7 @@
 { "url":"cross.wav", "type":"audio","bank":"cross","n":0},
 { "url":"dling.wav", "type":"audio","bank":"dling","n":0},
 { "url":"glitch.wav", "type":"audio","bank":"glitch","n":0},
-{ "url":"head up.wav", "type":"audio","bank":"head up","n":0},
+{ "url":"headup.wav", "type":"audio","bank":"head up","n":0},
 { "url":"however.wav", "type":"audio","bank":"however","n":0},
 { "url":"range.wav", "type":"audio","bank":"range","n":0},
 { "url":"sundayclub.wav", "type":"audio","bank":"sunday club","n":0},
