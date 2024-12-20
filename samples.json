@@ -19,7 +19,7 @@
 { "url":"clock2.wav", "type":"audio","bank":"clock2","n":0},
 { "url":"clock3.wav", "type":"audio","bank":"clock3","n":0},
 { "url":"clock4.wav", "type":"audio","bank":"clock4","n":0},
-{ "url":"crackling.wav", "type":"audio","bank":"crackling,"n":0},
+{ "url":"crackling.wav", "type":"audio","bank":"crackling","n":0},
 { "url":"e.wav", "type":"audio","bank":"e","n":0},
 { "url":"ghosting.wav", "type":"audio","bank":"ghosting","n":0},
 { "url":"h.wav", "type":"audio","bank":"h","n":0},
