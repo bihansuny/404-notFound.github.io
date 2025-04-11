@@ -42,5 +42,15 @@
 { "url":"wind.wav", "type":"audio","bank":"wind","n":0},
 { "url":"wind0.wav", "type":"audio","bank":"wind","n":1},
 { "url":"wind1.wav", "type":"audio","bank":"wind","n":2},
-{ "url":"wind3.wav", "type":"audio","bank":"wind","n":3}
+{ "url":"wind3.wav", "type":"audio","bank":"wind","n":3},
+{ "url":"404.mp3", "type":"audio","bank":"404","n":0},
+{ "url":"amulet.mp3", "type":"audio","bank":"amulet","n":0},
+{ "url":"bell.mp3", "type":"audio","bank":"bell","n":0},
+{ "url":"bihan.mp3", "type":"audio","bank":"bihan","n":0},
+{ "url":"fox.mp3", "type":"audio","bank":"fox","n":0},
+{ "url":"snake.mp3", "type":"audio","bank":"snake","n":0},
+{ "url":"nadia.mp3", "type":"audio","bank":"nadia","n":0},
+{ "url":"gather.mp3", "type":"audio","bank":"gather","n":0},
+{ "url":"jeli.mp3", "type":"audio","bank":"jeli","n":0},
+{ "url":"transport.mp3", "type":"audio","bank":"transport","n":0}
 ]
